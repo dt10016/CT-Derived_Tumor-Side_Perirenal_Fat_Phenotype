@@ -1,0 +1,2 @@
+case_id,ct_path,organ_mask_path,vein_mask_path,fat_mask_path,tumor_side
+CASE_001,/path/to/CASE_001_ct.nii.gz,/path/to/CASE_001_organ_pred.nii.gz,/path/to/CASE_001_vessel_pred.nii.gz,/path/to/CASE_001_fat_pred.nii.gz,left

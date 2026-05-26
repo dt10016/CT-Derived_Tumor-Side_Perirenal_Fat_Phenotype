@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Large medical imaging data and model weights
+*.nii
+*.nii.gz
+*.dcm
+*.mha
+*.mhd
+*.nrrd
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Generated outputs
+outputs/
+results/
+analysis_outputs/
+figures/
+*.log
+
+# Local environment
+.env
+.idea/
+.vscode/
+Thumbs.db
